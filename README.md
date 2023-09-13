@@ -1,5 +1,6 @@
-### Hi there 👋
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=brenodelmondes&show_icons=true&theme=tokyonight&locale=pt-br" alt="brenodelmondes" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenodelmondes&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="brenodelmondes" /></p>
 <!--
 **brenodelmondes/brenodelmondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
